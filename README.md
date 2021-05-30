@@ -15,9 +15,9 @@ Functionality:
 
 ## Examples on HOW TO USE:
 
-*python main.py -u USERNAME -p PASSWORD -o follow-tag -t cat* : **Follow users using the tag 'cat'** 
+*python main.py -u USERNAME -p PASSWORD -o follow-tag -t wolf* : **Follow users using the tag 'wolf'** 
 
-*python main.py -u USERNAME -p PASSWORD -o follow-location -t 127963847* : **Follow users from Spain** 
+*python main.py -u USERNAME -p PASSWORD -o follow-location -t XXXXXXXX* : **Follow users from the location** 
 
 *python main.py -u USERNAME -p PASSWORD -o super-followback*: **Now you are following users you didn't follow but they followed you**
 
